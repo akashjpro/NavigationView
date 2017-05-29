@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+        android:title="Android"
+        android:id="@+id/menuAndroid"
+        android:icon="@android:drawable/presence_away"/>
+
+    <item android:title="IOS"
+        android:icon="@android:drawable/ic_menu_add"
+        android:id="@+id/menuIOS"/>
+
+    <item android:title="PHP"
+        android:icon="@android:drawable/alert_dark_frame"
+        android:id="@+id/menuPHP"/>
+    </group>
+
+    <item android:title="Lien he">
+
+        <menu>
+
+            <item android:title="Email"
+                android:id="@+id/menuEmail"
+                android:icon="@android:drawable/sym_action_email"/>
+
+            <item android:title="Phone"
+                android:id="@+id/menuPhone"
+                android:icon="@android:drawable/sym_action_call"/>
+
+        </menu>
+
+    </item>
+
+
+
+
+
+
+</menu>

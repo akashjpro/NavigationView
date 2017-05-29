@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="nav.item.background_pressed">#2f8b0e</color>
+    <color name="nav.item.background_checked">#04f71c</color>
+    <color name="nav.item.background_focused">#e11115</color>
+    <color name="nav.item.background_activated">#fff940</color>
+    <color name="nav.item.background.default">#fdfdfd</color>
+</resources>
